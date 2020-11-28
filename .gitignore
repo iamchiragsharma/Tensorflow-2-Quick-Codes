@@ -1,0 +1,3 @@
+__pycache__/
+venv/
+lego_classification/lego_classification_model.h5
